@@ -1,4 +1,4 @@
-# xn-lcs
+# xn-fantasy-lol
 
 A Discord bot for League of Legends pro-play pick'em. Drop it in your server,
 let people submit weekly predictions, and track everyone's accuracy over the split.
